@@ -26,14 +26,14 @@ const readme = `\
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm Backend Engineering Lead working for a Health Tech startup in India 
+- 🏦 I'm Chief Executive Officer Lead working for a IT Consultant startup in Indonesia 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://kiransyah.com/) and [gihtub.com](https://github.com/lthfkrnsyh)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 📝 I regulary write technical articles for [hashnode](https://kiransyah.com/) and [github.com](https://linkedin.com/in/keeraan)
+- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**, **.kt**, **php**
+- 📖 I am currently learning **Mobile Apps** with Kotlin
+- 💬 Talk to me about Persija, Tech, social politics & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Fun fact: I like speaking Javanese
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
