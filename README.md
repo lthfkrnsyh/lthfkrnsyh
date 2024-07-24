@@ -11,7 +11,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm Chief Executive Officer Lead working for a IT Consultant startup in Indonesia
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://kiransyah.com/) and [github.com](https://linkedin.com/in/keeraan)
+- 📝 I regulary write technical articles for [cybernsi](https://cybernsi.com/) and [linkedin](https://linkedin.com/in/keeraan)
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**, **.kt**, **php**
 - 📖 I am currently learning **Mobile Apps** with Kotlin
 - 💬 Talk to me about Persija, Tech, social politics & startups
@@ -59,7 +59,7 @@
 - [Introduction to Asynchronous Processing and Message Queues](https://kiransyah.com)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://kiransyah.com)
+▶ [... view more](https://cybernsi.com)
 
 ---
 
