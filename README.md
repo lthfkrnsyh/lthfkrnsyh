@@ -12,7 +12,7 @@
 - 🏦 I'm Chief Executive Officer Lead working for a IT Consultant startup in Indonesia
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [cybernsi](https://cybernsi.com/) and [linkedin](https://linkedin.com/in/keeraan)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**, **.kt**, **php**
+- 💻 I use daily: **.ts**, **.js**, **.java**, **.py**,  **.sql**, **.kt**, **php**
 - 📖 I am currently learning **Mobile Apps** with Kotlin
 - 💬 Talk to me about Persija, Tech, social politics & startups
 - 👯 We can connect to play some games of Chess ♟
